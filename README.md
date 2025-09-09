@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kim Tram Cap<br>I'm Web Developer from Viet Nam 🇻🇳
+Hi 👋, I'm Kim Tram Cap<br>I'm Web Developer from Viet Nam
 
 
 ## 🌐 Socials:
